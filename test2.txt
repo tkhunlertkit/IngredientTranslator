@@ -1,0 +1,322 @@
+กลิ่นวนิลา,Vanilla Extract
+Water,น้ำ
+Carbonated Water,โซดา
+หัวหอม,Onion
+ผงฟู,Baking Powder
+Shouzu,โชยุ
+ผักชี,Cilantro
+Unsalted Butter,เนยจืด
+นมผง,Instant Dry Milk Instant Dry Milk
+Vinegar,น้ำส้มสายชู
+ผงกะเพรา,Hot Basil Stir Fried Sauce Powder
+หมูหยอง,Cooked Dried Pork
+Black Sesame Seeds,งาดำ
+Shell Pasta,เชลพลาสต้า
+สตอเบอร์รี่,Strawberry
+คิวมิน,Cumin
+พริกหยวกเขียว,Green Pepper
+Banana Extract,กลิ่นกล้วย
+Ketchup Ketchup,ซอสมะเขือเทศ
+Milk,นมสด
+ชีส,Cheese
+ปีกไก่,Chicken Wings
+น้ำตาลปี้บ,Palm Sugar
+หมูสับ,Ground Pork
+Fettuccine,Fettuccine
+Wet Tamarind,มะขามเปียก
+วิปปิ้งครีม,Whipping Cream
+ลูกชิ้นหมู,Pork Balls
+Panko,เกล็ดขนมปัง
+Instant Dry Milk Instant Dry Milk,นมผง
+น้ำตาลทรายขาว,Sugar
+รากผักชี,Cilantro Roots
+Baking Soda,แบคคิ้งโซดา
+Chicken,ไก่
+น้ำกะทิ,Coconut Milk
+น้ำปลา,Fish Sauce
+Ground Pork,หมูสับ
+แบคคิ้งโซดา,Baking Soda
+ไส้กรอกอิตาเลี่ยน,Italian Sausage
+ซอสพริก,Hot Sauce Hot Sauce
+น้ำพริกเผา,Thai Chili Paste
+Chopped Garlic,กระเทียมสับ
+Corn Starch,แป้งข้าวโพด
+กระเทียมสับ,Chopped Garlic
+Olive Oil,น้ำมันมะกอก
+Egg White,ไข่ขาว
+Bamboo Shoot,หน่อไม้
+Salt,เกลือ
+ผงโอวัลติน,Ovaltine Powder
+ไข่ขาว,Egg White
+ซี่โครงPork,หมู
+Pineapple,สับปะรด
+น้ำมัน,Oil
+Teriyaki Sauce,ซอสTeriyaki
+ไข่ไก่,Eggs
+SP,SP
+กลิ่นกล้วย,Banana Extract
+ใบโหระพา,Thai Basil
+Coconut Milk,น้ำกะทิสำเร็จรูป
+ครีมออฟทาท่า,Creme of Tartar
+Ice,น้ำแข็ง
+Cabbages,กระหล่ำปลี
+Thai Chili Paste,น้ำพริกเผา
+เชลพลาสต้า,Shell Pasta
+มันเทศ,Sweet Potato
+Tapioca Flour,แป้งมัน
+Jasmine Extract,กลิ่นมะลิ
+พริก,Chili Chili
+Lime Leaves,ใบมะกรูด
+Ham,แฮม
+White Pepper,พริกไทยขาว
+Garlic,กระเทียม
+ลูกเกด,Raisin
+งาดำ,Black Sesame Seeds
+Coconut Water,น้ำมะพร้าว
+Bean Paste,เต๋าเจี้ยว
+BBQ Sauce,บาบิคิวซอส
+ต้นหอม,Scallions
+Sticky Rice,ข้าวเหนียว
+Hot Water,น้ำร้อน
+ปาปริก้า,Paprika
+ทูน่ากระป๋อง,Canned Tuna
+ข้าวเหนียว,Sticky Rice
+น้ำมะนาว,Lime Juice
+สีผสมอาหาร,Food Coloring
+Chili Chili,พริก
+Old Bay,โอเบ
+หอมแดง,Shallots Shallots
+อัลมอนด์สไลค์,Almond
+Metled Butter,เนยเค็มละลาย
+พริกแกง,Green Curry Paste
+Potato,มันฝรั่ง
+เนยละลาย,Melted Butter
+Egg Yolk,ไข่แดง
+พริกไทย,Black Pepper
+Cajun,เคจุน
+งาขาว,White Sesame Seeds
+Onion Onion,หอมหัวใหญ่
+ยีสต์,Yeast
+น้ำตาลทราย,Sugar
+น้ำใบเตย,Pandan Extract
+นมอุ่น,Warm Milk
+บาบิคิวซอส,BBQ Sauce
+Tomato Tomato,มะเขือเทศ
+พริกป่น คายแยน,Cyan Pepper
+มายองเนส,Mayonnaise
+Almond,อัลมอนด์
+กระเทียม,Garlic
+Evaporated Milk,นมข้นจืด
+Sesame Oil,น้ำมันงา
+แป้งข้าวโพด,Corn Starch
+ซีอิ้วขาว,Soy Sauce
+Corn Flake,คอนเฟลก
+Chicken Wings,ปีกไก่
+Yeast,ยีสต์
+Melted Butter,เนยละลาย
+ผงกะหรี่,Curry Powder Curry Powder
+น้ำมะพร้าว,Coconut Water
+Cheese,ชีส
+เกล็ดขนมปัง,Panko
+Bread Flour,แป้งขนมปัง
+นมสด,Milk
+ใบเตย,Pandan Leave
+มันฝรั่ง,Potato
+ปลาแซลมอน,Salmon
+กล้วยน้ำว้า,Banana
+Seasoning Powder,คะนอร์ก้อน
+Almond Milk,นมอัลมอนด์
+น้ำ,Water
+โซดา,Carbonated Water
+Pork Loin Pork,หมูสันนอก
+Warm Milk,นมสดอุ่น
+ข้าวโพด,Corn
+อัลมอนด์สไลท์,Almond Slices
+สับปะรดกระป๋อง,Pineapple Pineapple
+แครนเบอร์รี่,Cranberry
+Imitation Crap,ปูอัด
+Brown Sugar,น้ำตาลทรายแดง
+ผงชานมเย็น,Thai Iced Tea Powder
+Mixed Vegetables,ผักรวม
+เนยจืด,Unsalted Butter
+สตอเบอร์รี่สด,Strawberry
+ซอสTeriyaki,Teriyaki Sauce
+น้ำส้มสายชู,Vinegar
+Cilantro Roots,รากผักชี
+โชยุ,Shouzu
+White Bread,ขนมปังแผ่น
+น้ำตาลทรายแดง,Brown Sugar
+Apple,แอปเปิ้ล
+พริกไทยดำ,Black Pepper
+ผงโกโก้,Cocoa Powder
+White Sesame Seeds,งาขาว
+Soy Sauce,ซีอิ้วขาว
+นมอัลมอนด์,Almond Milk
+Mustard,มัสตาร์ด
+Ovaltine Powder,ผงโอวัลติน
+พริกแกงแดง,Red Curry
+น้ำส้มสายชูข้าว,Rice Vinegar
+Almond Slices,อัลมอนด์สไลท์
+Bacon,เบคอน
+Eggs,ไข่ไก่
+Sweet Potato,มันเทศ
+แป้งมัน,Tapioca Flour
+นูเทลล่า,Nutella
+Paprika,ปาปริก้า
+Crispy Seaweed,สาหร่ายกรอบ
+น้ำร้อน,Hot Water
+หมูสันนอก,Pork Loin Pork
+Nutella,นูเทลล่า
+เบคอน,Bacon
+กะทิ,Coconut Milk
+แป้งเค้ก,Cake Flour
+เบคกิ้งโซดา,Baking Soda
+Italian Sausage,ไส้กรอกอิตาเลี่ยน
+Cake Flour,แป้งเค้ก
+Black Pepper,พริกไทยดำ
+คอนเฟลกโกโก้,Cocoa Corn Flake
+Cocoa Corn Flake,คอนเฟลกโกโก้
+น้ำมันพืช,Oil
+Sausage,ไส้กรอก
+นมสดจืด,Milk
+Onion,หัวหอม
+Pork Balls,ลูกชิ้นหมู
+นม,Milk
+Lime Juice,น้ำมะนาว
+Matcha Green Tea Powder,ผงชาเขียว
+Quail eggs,ไข่นกกระทา
+Cranberry,แครนเบอร์รี่
+Honey,น้ำผึ้ง
+เกลือ,Salt
+หมู(ไม่ติดมัน),Lean Pork
+น้ำมันคานอลล่า,Canola Oil
+น้ำตาล,Sugar
+Maggi,แม๊กกี้
+เนยเค็ม,Butter
+น้ำมันมะกอก,Olive Oil
+น้ำมันทาโนล่า,Oil
+ซอสเผ็ดเกาหลี,Korean Spicy Sauce
+Thai Iced Tea Powder,ผงชานมเย็น
+Vanilla Extract,กลิ่นวนิลา
+เนื้อหมู,Pork Loin
+Carrot Carrot,แครอท
+น้ำแข็ง,Ice
+น้ำมันงา,Sesame Oil
+Canned Tuna,ทูน่ากระป๋อง
+Cilantro,ผักชี
+น้ำมันหอย,Oyster Sauce
+แครอท,Carrot Carrot
+ปลาหมึก,Octopus
+กระหล่ำปลี,Cabbages
+แป้งขนมปัง,Bread Flour
+ซอสมะเขือเทศ,Ketchup Ketchup
+Pandan Extract,น้ำใบเตย
+น้ำตาลไอซิ่ง,Powdered Sugar
+Ginger Powder ผงGinger,ขิง
+Hot Basil Stir Fried Sauce Powder,ผงกะเพรา
+Cumin,คิวมิน
+ชานมเย็น,Thai Iced Tea Powder
+Butter,เนยเค็ม
+เนยเค็มละลาย,Metled Butter
+แป้งโฮลวีต,Whole Wheat Flour
+สับปะรด,Pineapple
+Creme of Tartar,ครีมออฟทาท่า
+Canola Oil,น้ำมันคานอลล่า
+Green Curry Paste,พริกแกง
+แป้งอเนกประสงค์,All Purpose Flour
+Whole Wheat Flour,แป้งโฮลวีต
+Golden Egg Yolk Thread,ฝอยทอง
+พริกแกงเขียวหวาน,Green Curry Paste
+มัสตาร์ด,Mustard
+ผงปาปริกา,Paprika
+Cooked Chicken,ไก่ต้ม
+Warm Water,น้ำอุ่น
+Food Coloring,สีผสมอาหาร
+ผักรวม,Mixed Vegetables
+Palm Sugar,น้ำตาลปี้บ
+Oyster Sauce,น้ำมันหอย
+แฮม,Ham
+กลิ่นมะลิ,Jasmine Extract
+น้ำผึ้ง,Honey
+กล้วยหอม,Banana
+Curry Powder Curry Powder,ผงกะหรี่
+Powdered Sugar,น้ำตาลไอซิ่ง
+Chili Pepper,พริกสด
+มะเขือเทศ,Tomato Tomato
+ไส้กรอก,Sausage
+อัลมอนด์,Almond
+หมู,ซี่โครงPork
+Strawberry,สตอเบอร์รี่สด
+ไข่แดง,Egg Yolk
+Sweet Sweetened Condensed Milk,นมข้นหวาน
+Whipping Cream,วิปปิ้งครีม
+พริกสด,Chili Pepper
+Pork Loin,เนื้อหมู
+Strawberry Extract,กลิ่นสตอเบอร์รี่
+น้ำเย็น,Cold Water
+Oregano Oregano,ออริกาโน่
+ไก่,Chicken
+สาหร่ายกรอบ,Crispy Seaweed
+Thai Basil,ใบโหระพา
+ฝอยทอง,Golden Egg Yolk Thread
+ขนมปังแผ่น,White Bread
+Rice Vinegar,น้ำส้มสายชูข้าว
+Salmon,ปลาแซลมอน
+Cooked Dried Pork,หมูหยอง
+หน่อไม้,Bamboo Shoot
+Octopus,ปลาหมึก
+Taro,เผือก
+Baking Powder,ผงฟู
+Chicken Breasts,อกไก่
+Banana,กล้วยน้ำว้า
+ไก่ต้ม,Cooked Chicken
+นมข้นจืด,Evaporated Milk
+Oil,น้ำมัน
+Mayonnaise,มายองเนส
+น้ำเปล่า,Water
+Cold Water,น้ำเย็น
+ไข่นกกระทา,Quail eggs
+Korean Spicy Sauce,ซอสเผ็ดเกาหลี
+ปูอัด,Imitation Crap
+เคจุน,Cajun
+All Purpose Flour,แป้งอเนกประสงค์
+Pandan Leave,ใบเตย
+Coconut,มะพร้าว
+Creme Cheese,ครีมชีส
+ซีอิ้วดำ,Black Sweet Soy Sauce
+น้ำกะทิสำเร็จรูป,Coconut Milk
+Black Sweet Soy Sauce,ซีอิ้วดำ
+มะพร้าว,Coconut
+Red Curry,พริกแกงแดง
+กลิ่นสตอเบอร์รี่,Strawberry Extract
+นมข้นหวาน,Sweet Sweetened Condensed Milk
+เต๋าเจี้ยว,Bean Paste
+ใบมะกรูด,Lime Leaves
+แม๊กกี้,Maggi
+Hot Sauce Hot Sauce,ซอสพริก
+Shallots Shallots,หอมแดง
+Cocoa Powder,ผงโกโก้
+Sugar,น้ำตาลทราย
+ออริกาโน่,Oregano Oregano
+หอมหัวใหญ่,Onion Onion
+คะนอร์ก้อน,Seasoning Powder
+เผือก,Taro
+นมสดอุ่น,Warm Milk
+ขิง,Ginger Powder ผงGinger
+พริกไทยขาว,White Pepper
+มะขามเปียก,Wet Tamarind
+Corn,ข้าวโพด
+Raisin,ลูกเกด
+ครีมชีส,Creme Cheese
+อกไก่,Chicken Breasts
+Lean Pork,หมู(ไม่ติดมัน)
+Cyan Pepper,พริกป่น คายแยน
+ผงชาเขียว,Matcha Green Tea Powder
+Fish Sauce,น้ำปลา
+Scallions,ต้นหอม
+Pineapple Pineapple,สับปะรดกระป๋อง
+แอปเปิ้ล,Apple
+โอเบ,Old Bay
+คอนเฟลก,Corn Flake
+Green Pepper,พริกหยวกเขียว
+น้ำอุ่น,Warm Water
