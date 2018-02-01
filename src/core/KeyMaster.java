@@ -116,6 +116,11 @@ public class KeyMaster {
 
     public void importFile(String fileName) throws FileNotFoundException {
         try (Scanner s = new Scanner(new File(fileName))) {
+
+        } catch (FileNotFoundException e) {
+
+        }
+        try (Scanner s = new Scanner(new File(fileName))) {
             this.importWithScanner(s, false);
         } catch (FileNotFoundException e) {
             throw new FileNotFoundException("Cannot open file ¯\\_(ツ)_/¯: " + fileName);

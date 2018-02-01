@@ -10,7 +10,7 @@ public class Compute {
     private static String defaultDictFilename = "IngredientsDict.txt";
 
     private String begin = "<!--more-->\n";
-    private String end = "<figure class=\"op-ad\">\n" +
+    private String facebookAd = "<figure class=\"op-ad\">\n" +
             "  <iframe width=\"300\" height=\"250\" style=\"border:0; margin:0;\" src=\"https://www.facebook.com/adnw_request?placement=1939098986132591_1939099016132588&adtype=banner300x250\"></iframe>\n" +
             "</figure>\n";
     private KeyMaster ingredientKeyMaster;
@@ -53,17 +53,19 @@ public class Compute {
         ArrayList<String> procedures = new ArrayList<>();
         try (Scanner s = new Scanner(lines)) {
             while (s.hasNextLine()) {
-                procedures.add(s.nextLine());
+                String line = s.nextLine();
+                if (!line.isEmpty())
+                    procedures.add(line);
             }
         }
         return procedures;
     }
 
     public String generate(String ingredientsThai, String procedureThai, String procedureEng) {
-        String thaiIngredientHeader = "<h1><strong>ส่วนผสม</strong></h1>\n";
-        String thaiProcedureHeader = "<h1><strong>วิธีทำ</strong></h1>\n";
-        String engIngredientHeader = "<h1><strong>Ingredients</strong></h1>\n";
-        String engProcedureHeader = "<h1><strong>Procedures</strong></h1>\n";
+        String thaiIngredientHeader = "<h1><strong>ส่วนผสม</strong></h1>";
+        String thaiProcedureHeader = "<h1><strong>วิธีทำ</strong></h1>";
+        String engIngredientHeader = "<h1><strong>Ingredients</strong></h1>";
+        String engProcedureHeader = "<h1><strong>Procedures</strong></h1>";
         String line = "";
         ArrayList<String> thaiIngredients = new ArrayList<>();
         ArrayList<String> engIngredients = new ArrayList<>();
@@ -98,13 +100,19 @@ public class Compute {
 
         // Table Tag construction
         String combinedResult = begin;
-        combinedResult += "<table>\n";
-        combinedResult += "<tr><th>" + thaiIngredientHeader + "</th><th>" + thaiProcedureHeader + "</th></tr>\n";
-        combinedResult += "<tr><td valign=\"top\"><div style=\"width: 300px\">" + list2OlTag(thaiIngredients) + "</div></td><td valign=\"top\">" + list2OlTag(thaiProcedureList) + "</td></tr>\n";
-        combinedResult += "<tr><th>" + engIngredientHeader + "</th><th>" + engProcedureHeader + "</th></tr>\n";
-        combinedResult += "<tr><td valign=\"top\"><div style=\"width: 300px\">" + list2OlTag(engIngredients) + "</div></td><td valign=\"top\">" + list2OlTag(engProcedureList) + "</td></tr>\n";
-        combinedResult += "</table>";
-        combinedResult += end;
+        combinedResult += "<div class=\"Rtable Rtable--2cols Rtable--collapse\">\n";
+        combinedResult += "  <div style=\"order:0;\" class=\"Rtable-cell Rtable-cell--head\">" + thaiIngredientHeader + "</div>\n";
+        combinedResult += "  <div style=\"order:1;\" class=\"Rtable-cell\">" + list2OlTag(thaiIngredients) + "</div>\n";
+        combinedResult += "  <div style=\"order:0;\" class=\"Rtable-cell Rtable-cell--head\">" + thaiProcedureHeader + "</div>\n";
+        combinedResult += "  <div style=\"order:1;\" class=\"Rtable-cell\">" + list2OlTag(thaiProcedureList) + "</div>\n";
+        combinedResult += "</div>\n";
+        combinedResult += "<div class=\"Rtable Rtable--2cols Rtable--collapse\">\n";
+        combinedResult += "  <div style=\"order:0;\" class=\"Rtable-cell Rtable-cell--head\">" + engIngredientHeader + "</div>\n";
+        combinedResult += "  <div style=\"order:1;\" class=\"Rtable-cell\">" + list2OlTag(engIngredients) + "</div>\n";
+        combinedResult += "  <div style=\"order:0;\" class=\"Rtable-cell Rtable-cell--head\">" + engProcedureHeader + "</div>\n";
+        combinedResult += "  <div style=\"order:1;\" class=\"Rtable-cell\">" + list2OlTag(engProcedureList) + "</div>\n";
+        combinedResult += "</div>\n";
+        combinedResult += facebookAd;
 
         return combinedResult;
     }

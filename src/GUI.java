@@ -5,8 +5,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 /**
  * Created by MSDK on 8/4/17.
@@ -14,7 +15,59 @@ import java.io.IOException;
 public class GUI extends JFrame implements UI {
 
     public static void main(String[] args) throws IOException {
+//        Repository
+        String url = "https://api.github.com/repos/tkhunlertkit/ingredienttranslator/releases/latest";
+//        url = "https://www.google.com";
+        System.out.println(url);
+        String ret = executeGet(url, "");
+        System.out.println(ret);
         new GUI();
+    }
+
+    public static String executeGet(String targetURL, String urlParameters) {
+        HttpURLConnection connection = null;
+
+        try {
+            //Create connection
+            URL url = new URL(targetURL);
+            connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+
+            connection.setRequestProperty("Content-Length",
+                    Integer.toString(urlParameters.getBytes().length));
+            connection.setRequestProperty("Content-Language", "en-US");
+            connection.setDoOutput(true);
+            connection.setDoInput(true);
+            //Send request
+            DataOutputStream wr = new DataOutputStream (
+                    connection.getOutputStream());
+            wr.writeBytes(urlParameters);
+            wr.close();
+
+            //Get Response
+            int status = connection.getResponseCode();
+            System.out.println("Status: " + status);
+            InputStream is = connection.getInputStream();
+            BufferedReader rd = new BufferedReader(new InputStreamReader(is));
+            StringBuffer response = new StringBuffer();
+//            StringBuilder response = new StringBuilder(); // or StringBuffer if Java version 5+
+            String line;
+            while ((line = rd.readLine()) != null) {
+                response.append(line);
+                response.append('\r');
+            }
+            rd.close();
+            return response.toString();
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        } finally {
+
+            if (connection != null) {
+                System.out.println("here?");
+                connection.disconnect();
+            }
+        }
     }
 
     private final TextArea thaiIngredients = new TextArea();
